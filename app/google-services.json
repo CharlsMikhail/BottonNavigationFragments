@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377979321869",
+    "project_id": "tpago-9bc79",
+    "storage_bucket": "tpago-9bc79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377979321869:android:f9a3f57116b4eb9e03df44",
+        "android_client_info": {
+          "package_name": "com.example.bottonnavigationfragments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_G1vpQ0cgEIaZPL9tyL9GDq7awc4-2yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
